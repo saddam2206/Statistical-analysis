@@ -51,6 +51,7 @@ The notebook includes implementation of:
 **bar chart**
 <img width="1189" height="590" alt="Image" src="https://github.com/user-attachments/assets/2ef6a1dd-5bc5-4a6c-8d00-15fc5811660c" />
 **pie chart**
+<img width="616" height="508" alt="Image" src="https://github.com/user-attachments/assets/0d0e9e01-7fd9-4745-b6f5-e193fa4351f3" />
 
 
 ---
