@@ -49,11 +49,14 @@ The notebook includes implementation of:
 
 ## 📈 Visualizations & Techniques
 **bar chart**
-<img width="1189" height="590" alt="Image" src="https://github.com/user-attachments/assets/2ef6a1dd-5bc5-4a6c-8d00-15fc5811660c" />
+<img width="1000" height="500" alt="Image" src="https://github.com/user-attachments/assets/2ef6a1dd-5bc5-4a6c-8d00-15fc5811660c" />
+
 **pie chart**
 <img width="616" height="508" alt="Image" src="https://github.com/user-attachments/assets/0d0e9e01-7fd9-4745-b6f5-e193fa4351f3" />
+
 **correlation Heatmap**
 <img width="486" height="374" alt="Image" src="https://github.com/user-attachments/assets/dc17a571-94b0-4e55-84cf-b230b6659c96" />
+
 **line chart**
 <img width="699" height="470" alt="Image" src="https://github.com/user-attachments/assets/77e1374b-dc38-4e49-a527-dfdda5ab9310" />
 
