@@ -49,6 +49,9 @@ The notebook includes implementation of:
 
 ## 📈 Visualizations & Techniques
 **bar chart**
+<img width="1189" height="590" alt="Image" src="https://github.com/user-attachments/assets/2ef6a1dd-5bc5-4a6c-8d00-15fc5811660c" />
+**pie chart**
+
 
 ---
 
