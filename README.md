@@ -47,6 +47,9 @@ The notebook includes implementation of:
   * p-value based decision making
   * Practical interpretation of statistical results
 
+## 📈 Visualizations & Techniques
+**bar chart**
+
 ---
 
 ## 🗂️ Project Structure
